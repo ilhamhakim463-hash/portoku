@@ -1,0 +1,10 @@
+Taruh file-file berikut di folder ini:
+
+- photo.jpg          → Foto profil kamu
+- project-1.jpg      → Screenshot project 1
+- project-2.jpg      → Screenshot project 2
+- project-3.jpg      → Screenshot project 3
+- dst...
+
+Lalu update path-nya di js/data.js pada field "screenshot"
+dan di index.html pada bagian hex-avatar-placeholder.
